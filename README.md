@@ -35,12 +35,13 @@
 
 ###
 
-<h4 align="left">Desenvolvedor em formação| Graduando em Sistemas de Informação - 7/8 - IFNMG</h4>
+<h3 align="left">Desenvolvedor Backend Java | Co-fundador na RGA Soluções Corporativas</h3>
 
-<p align="left">Aprendendo Java e Spring para poder criar aplicações robustas e escalaveis</p>
+<p align="left">Graduando em Sistemas de Informação (7/8) - IFNMG</br>
+Focado na construção de APIs escaláveis, integrações de serviços e arquitetura limpa.</p>
 
 ###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=back-andy&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=back-andy&layout=donut&theme=dracula&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 ###
